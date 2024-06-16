@@ -1,0 +1,75 @@
+body {
+    margin: auto;
+    color: ivory;
+    background-color:#1C1C1C;
+    font-family: "Inter", sans-serif;
+}
+
+main {
+    padding: 50px;
+    background: #1F2937;
+    border: 5px solid ivory;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: "Karla", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+p { 
+    font-family: "Inter", sans-serif;
+    font-weight: 400px;
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.green-font {
+    color: #10B981;
+}
+
+.password-wrapper {
+    display: flex;
+    margin-top: 50px;
+    border-top: 2px solid grey;
+}
+
+#passwordButton {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #10B981;
+    color: ivory;
+    padding: 10px 20px;
+    border: 1px solid ivory;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+#resetButton {
+    background-color: darkred;
+    color: ivory;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+input {
+    background-color: #273549;
+    border: 1px solid ivory;
+    color: ivory;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 75px;
+    margin-right: 10px;
+    margin-bottom: 75px;
+    font-size: 16px;
+}
+
